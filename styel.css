@@ -1,0 +1,35 @@
+body{
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+margin: 0%;
+}
+.orange{
+    color:orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color:white;
+     
+}
+section{
+    display: flex;
+    
+
+}
+.haif-width{
+    width: 50%;
+    padding-left:10%;
+}
+.haif-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+
