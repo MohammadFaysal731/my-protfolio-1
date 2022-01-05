@@ -32,8 +32,14 @@ margin: 0%;
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 }
+.drem-bg{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+}
 .experiences-area{
-    background-image: url(image/exp-bg.png);
+    background-image:url(image/exp-bg.png);
     background-repeat: no-repeat;
 }
 .experiences-item{
